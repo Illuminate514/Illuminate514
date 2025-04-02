@@ -23,6 +23,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=MathWorks&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0076A8?style=flat&logo=Matplotlib&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
