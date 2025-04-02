@@ -1,3 +1,5 @@
+![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+
 # 👋 Hi, I'm Zimeng Chen!  
 🚀 Passionate Developer | 🎨 Designer | 💡 Problem Solver  
 
