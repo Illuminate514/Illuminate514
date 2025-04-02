@@ -12,7 +12,8 @@
   
 ## 📊 GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Illuminate514&show_icons=true&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?usernameIlluminate514&color=blue)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Illuminate514&color=blue)
 
 
 ⭐️ *Thank you for following me!*
