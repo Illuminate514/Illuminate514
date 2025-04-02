@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Illuminate514/Illuminate514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 👋 Hi, I'm Zimeng Chen!  
 🚀 Passionate Developer | 🎨 Designer | 💡 Problem Solver  
 
@@ -21,6 +16,6 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Illuminate514&show_icons=true&theme=radical)
 ![Visitor Count](https://komarev.com/ghpvc/?usernameIlluminate514&color=blue)
 
----
+
 ⭐️ *Thank you for following me!*
 
