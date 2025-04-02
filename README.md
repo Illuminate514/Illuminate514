@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Zimeng Chen!  
+# 👋 Hi, I'm Zimeng!  
 🚀 Passionate Developer | 🎨 Designer | 💡 Problem Solver  
 
 ## 📫 Contact Me:
