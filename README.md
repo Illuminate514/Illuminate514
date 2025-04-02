@@ -1,4 +1,4 @@
-
+![Zimeng](https://github.com/your-username/your-repo-name/blob/main/myname.gif)
 # 👋 Hi, I'm Zimeng!  
 🚀 Passionate Developer | 🎨 Designer | 💡 Problem Solver  
 
