@@ -52,7 +52,7 @@
 
   📅 2021 - 2025（Bachelor）  
   
-  📍 Changsha Hunan 
+  📍 Changsha China 
   
   📖 Major：Artifical Intelligence
 
