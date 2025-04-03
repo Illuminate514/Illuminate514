@@ -42,7 +42,7 @@
 
 [![Waseda University](https://img.shields.io/badge/Waseda-University-maroon?style=for-the-badge)](https://www.waseda.jp) 
   
-  📅 2025-2027（Master）  
+  📅 2025 - 2027（Master）  
  
   📍 Tokyo Japan  
   
