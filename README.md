@@ -38,13 +38,27 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white)
 
+## 🎓 Education
+
+[![Waseda University](https://img.shields.io/badge/Waseda-University-maroon?style=for-the-badge)](https://www.waseda.jp) 
+  
+  📅 2025-2027（Master）  
+ 
+  📍 Tokyo Japan  
+  
+  📖 Research：---- 
+
+[![Central South University](https://img.shields.io/badge/-Central%20South%20University-002FA7?style=for-the-badge&logo=academia&logoColor=white)](https://www.csu.edu.cn/)
+
+  📅 2021 - 2025（Bachelor）  
+  
+  📍 Changsha Hunan 
+  
+  📖 Major：Artifical Intelligence
 
   
 ## 📊 GitHub Stats:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Illuminate514&color=blue)
-
-## Hobbies
-
 
 
 ⭐️ *Thank you for following me!*
