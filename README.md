@@ -1,4 +1,5 @@
-![Zimeng](https://github.com/Illuminate514/Illuminate514/blob/main/flamingtext_com-3306541664.png)
+[![Zimeng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zimeng&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # 👋 Hi, I'm Zimeng!  
 🚀 Passionate Developer | 🎨 Designer | 💡 Problem Solver  
@@ -59,6 +60,10 @@
   
 ## 📊 GitHub Stats:
 ![Visitor Count](https://komarev.com/ghpvc/?username=Illuminate514&color=blue)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=alice123&theme=gruvbox)
+
+
 
 ⭐️ *Thank you for following me!*
 
